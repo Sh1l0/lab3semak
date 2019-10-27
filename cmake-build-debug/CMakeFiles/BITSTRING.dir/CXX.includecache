@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sh1l0/Desktop/2019/c++/BITSTRING/BitString.cpp
+BitString.h
+/Users/Sh1l0/Desktop/2019/c++/BITSTRING/BitString.h
+climits
+-
+
+/Users/Sh1l0/Desktop/2019/c++/BITSTRING/BitString.h
+iostream
+-
+

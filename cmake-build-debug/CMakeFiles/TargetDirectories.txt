@@ -1,0 +1,3 @@
+/Users/Sh1l0/Desktop/2019/c++/BITSTRING/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Sh1l0/Desktop/2019/c++/BITSTRING/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Sh1l0/Desktop/2019/c++/BITSTRING/cmake-build-debug/CMakeFiles/BITSTRING.dir
