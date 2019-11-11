@@ -140,8 +140,8 @@ BitString &BitString::operator=(const BitString &right) {
     if (this == &right) {
         return *this;
     }
-    begining = right.begining;
-    end = right.end;
+    memcpy(begining, right.begining, sizeof(unsigned long));
+    memcpy(end, right.end, sizeof(unsigned long));
     return *this;
 }
 
